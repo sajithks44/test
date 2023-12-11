@@ -13,8 +13,8 @@ Login Method: ’email/password’
 // Push Page View event to data layer
 datalayer. push
 ({‘event’:’pageView’,
-‘pageName’: Puffy //Current Page Title
-‘pageUrl’: https://puffy.com?view=old-browser});
+‘pageName’: //Current Page Title
+‘pageUrl’: https://});
 
 3. TO TRACK PAGE SCROLL
 // Assuming you have a data layer object named ‘datalayer’
